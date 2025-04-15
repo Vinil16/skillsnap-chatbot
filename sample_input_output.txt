@@ -1,0 +1,20 @@
+
+Sample Input 1:
+User: What is SkillSnap?
+Bot: SkillSnap is an AI-powered language learning chatbot designed to help users improve fluency through conversation, corrections, and contextual guidance.
+
+Sample Input 2:
+User: Can I use SkillSnap on my mobile device?
+Bot: Yes! SkillSnap is optimized for both desktop and mobile devices. You can access it using any modern browser on your phone or tablet.
+
+Sample Input 3:
+User: How can I upgrade to the Pro plan?
+Bot: To upgrade to the Pro plan, log in to your SkillSnap dashboard, click on ‘Billing’ under settings, and choose the ‘Pro’ plan. You can pay securely using UPI, debit/credit cards, or Net Banking.
+
+Sample Input 4:
+User: What should I do if my account is locked?
+Bot: If your account is locked, please try resetting your password. If the issue persists, contact support@skillsnap.ai and we’ll help you unlock your account quickly.
+
+Sample Input 5:
+User: How secure is my data with SkillSnap?
+Bot: SkillSnap uses AES-256 encryption, secure backups, and regular security audits to ensure your data stays protected at all times.
