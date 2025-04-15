@@ -3,3 +3,4 @@ langchain
 google-generativeai
 faiss-cpu
 openai
+tiktoken
